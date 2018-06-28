@@ -1,5 +1,5 @@
 sutime
-dateutil
+python-dateutil
 isodate
 slackclient
 iso8601
